@@ -12,7 +12,7 @@ import (
 	"regexp"
 	"time"
 
-	"gitlab.com/eoea/cbs/src/browser"
+	"github.com/eoea/cbs/src/browser"
 )
 
 // hasCurrDateRates: takes the file path and returns true if the file

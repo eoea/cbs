@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"strings"
 
-	browser "gitlab.com/eoea/cbs/src/browser"
+	browser "github.com/eoea/cbs/src/browser"
 )
 
 // purchase_value: returns the amount of money you need to spend for the given

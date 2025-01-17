@@ -5,8 +5,8 @@ import (
 	"log"
 	"strconv"
 
-	rates "gitlab.com/eoea/cbs/src/rates"
-	tbill "gitlab.com/eoea/cbs/src/tbill"
+	rates "github.com/eoea/cbs/src/rates"
+	tbill "github.com/eoea/cbs/src/tbill"
 )
 
 func main() {
